@@ -1,13 +1,13 @@
 # Week 35 Review
 
-## Tuesday
+### Tuesday
 * My_basic_jpa
 * My_first_jpa
 * Point
-## Wednesday
+### Wednesday
 * Customer
 * rest1
-## Thursday
+### Thursday
 * jpql-demo-for-day4
 * week1-simple-jpa-rest
 
